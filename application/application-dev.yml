@@ -14,7 +14,7 @@ spring:
 #=========================
   redis:
     host: paascloud-db-redis
-    password:
+    password: 123456
     port: 6379
     timeout: 0
 #=========================
