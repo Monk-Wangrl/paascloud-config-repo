@@ -89,7 +89,7 @@ paascloud:
       expiredMinutes: 120
   mail:
     host: smtp.sina.com
-    username: 17621957080@163.com
+    username: 17621957080
     password: 52Xhl1314..
     test-connection: false
     properties:
