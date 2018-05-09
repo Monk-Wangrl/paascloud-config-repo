@@ -97,6 +97,8 @@ paascloud:
         smtp:
           auth: true
           timeout: 2500
+          ssl:
+            enabled: true
           starttls:
             enable: true
             required: true
